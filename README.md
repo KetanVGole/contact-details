@@ -10,3 +10,5 @@ step 5:
 migrate tables
 step 6:
 run command php artisan serve
+<br>
+use contacts.xml file for importing 
